@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.threadgirls.cse131.universityinfo" >
+
+   <uses-permission android:name="android.permission.CALL_PHONE"></uses-permission>
+   
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/ic_launcher"
+        android:label="@string/app_name"
+        android:theme="@style/AppTheme" >
+
+        <activity
+            android:name=".Splash"
+            android:label="@string/title_activity_splash" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".MainActivity"
+            android:label="@string/app_name" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".NSUInfo"
+            android:label="@string/title_activity_nsuinfo"
+            android:parentActivityName=".MainActivity" >
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.threadgirls.cse131.universityinfo.MainActivity" />
+        </activity>
+        <activity
+            android:name=".AUSTInfo"
+            android:label="@string/title_activity_austinfo"
+            android:parentActivityName=".MainActivity" >
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.threadgirls.cse131.universityinfo.MainActivity" />
+        </activity>
+        <activity
+            android:name=".BRACInfo"
+            android:label="@string/title_activity_bracinfo"
+            android:parentActivityName=".MainActivity" >
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.threadgirls.cse131.universityinfo.MainActivity" />
+        </activity>
+        <activity
+            android:name=".IUBInfo"
+            android:label="@string/title_activity_iubinfo"
+            android:parentActivityName=".MainActivity" >
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.threadgirls.cse131.universityinfo.MainActivity" />
+        </activity>
+        <activity
+            android:name=".AIUBInfo"
+            android:label="@string/title_activity_aiubinfo"
+            android:parentActivityName=".MainActivity" >
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.threadgirls.cse131.universityinfo.MainActivity" />
+        </activity>
+        <activity
+            android:name=".EWUInfo"
+            android:label="@string/title_activity_ewuinfo"
+            android:parentActivityName=".MainActivity" >
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.threadgirls.cse131.universityinfo.MainActivity" />
+        </activity>
+        <activity
+            android:name=".ULABInfo"
+            android:label="@string/title_activity_ulabinfo"
+            android:parentActivityName=".MainActivity" >
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.threadgirls.cse131.universityinfo.MainActivity" />
+        </activity>
+
+    </application>
+
+</manifest>

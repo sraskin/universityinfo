@@ -1,0 +1,1036 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">University Info</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_nsuinfo">NSUInfo</string>
+    <string name="nsu_info">Undergraduate Degrees :\n\n
+
+1.Bachelor of Business Administration (BBA) \n
+2.BS in Economics\n
+3.BS in Law\n
+4.BA in English\n
+5.Bachelor of Architecture\n
+6.BS in Civil and Environmental Engineering\n
+7.BS in Computer Science (CSC)\n
+8.BS in Computer Science and Engineering (CSE)\n
+9.BS in Electrical and Electronic Engineering (EEE)\n
+10.BS in Electronics and Telecommunication Engineering (ETE)\n
+11.BS in Biochemistry and Biotechnology (BBT)\n
+12.BS in Microbiology (MIC)\n
+13.BS in Environmental Science and Management\n
+14.Bachelor of pharmacy(BPharm)\n
+    Graduate Degrees :\n\n
+
+1.Master of Business Administration (MBA)\n
+2.Executive MBA (EMBA)\n
+3.MS in Economics\n
+4.Master in Development Studies (MDS)\n
+5.MA in English\n
+6.Master in Public Policy and Governance (MPPG)\n
+7.MS in Computer Science and Engineering (CSE)\n
+8.MS in Electronics and Telecommunications Engineering (ETE)\n
+9.MS in Electrical and Electronic Engineering (EEE)\n
+10.Master of Science in Biotechnology\n
+11.MS in Environmental Science and Management (MESM)\n
+12.Masters of Pharmacy in Pharmaceutical Technology and Biopharmaceutics (PTB)\n
+13.Masters of Pharmacy in Pharmacology and Clinical Pharmacy (PCP)\n
+14.Master in Public Health (MPH)\n
+15.Executive Master in Public Health (EMPH)\n
+    Undergraduate cost:\n\n
+
+program:BBA\n
+Credit hours:127\n
+Admission fee: BDT 25,000\n
+Regestration fee:BDT 4,000\n
+Per credits:BDT 5,500\n
+Total fee:BDT 7,71,500\n
+
+program:ECO\n
+Credit hours:125\n
+Admission fee:BDT 25,000\n
+Regestration fee:BDT 4,000\n
+Per credits:BDT 5,500\n
+Total fee:BDT 7,60,500\n
+
+program:LAW\n
+Credit hours:137\n
+Admission fee:BDT 25,000\n
+Regestration fee:BDT 4,000\n
+Per credits:BDT 5,500\n
+Total fee:BDT 8,26,500\n
+
+program:ENG\n
+Credit hours:123\n
+Admission fee:BDT 25,000\n
+Regestration fee:BDT 4,000\n
+Per credits:BDT 5,500\n
+Total fee:BDT 7,49,500\n
+
+program:ARCH\n
+Credit hours:170
+Admission fee:BDT 25,000\n
+Regestration fee:BDT 4,000\n
+Per credits:BDT 5,500\n
+Total fee:BDT 10,08,000\n
+
+program:CIVIL ENGINEERING\n
+Credit hours:145\n
+Admission fee:BDT 25,000\n
+Regestration fee:BDT 4,000\n
+Per credits:BDT 5,500\n
+Total fee:BDT 8,70,500\n
+
+program:CSC\n
+Credit hours:132\n
+Admission fee:BDT 25,000\n
+Regestration fee:BDT 4,000\n
+Per credits:BDT 5,500\n
+Total fee:BDT 7,99,000\n
+
+program:CSE\n
+Credit hours: 134\n
+Admission fee: BDT 25,000\n
+Regestration fee:BDT 4,000\n
+Per credits:BDT 5,500\n
+Total fee:BDT 8,10,000\n
+
+program:EEE\n
+Credit hours:131\n
+Admission fee:BDT 25,000\n
+Regestration fee:BDT 4,000\n
+Per credits:BDT 5,500\n
+Total fee:BDT 7,93,500\n
+
+program:CE\n
+Credit hours:129\n
+Admission fee:BDT 25,000\n
+Regestration fee:BDT 4,000\n
+Per credits:BDT 5,500\n
+Total fee:BDT 7,82,500\n
+
+program:BBT\n
+Credit hours: 127\n
+Admission fee:BDT 25,000\n
+Regestration fee:BDT 4,000\n
+Per credits:BDT 5,500\n
+Total fee:BDT 7,71,500\n
+
+program:MIC\n
+Credit hours: 133\n
+Admission fee:BDT 25,000\n
+Regestration fee:BDT 4,000\n
+Per credits:BDT 5,500\n
+Total fee:BDT 8,04,500\n
+
+program:ENVIRONMENTAL SCI.\n
+Credit hours: 130\n
+Admission fee:BDT 25,000\n
+Regestration fee:BDT 4,000\n
+Per credits:BDT 5,500\n
+Total fee:BDT 7,88,000\n
+
+program:PHARMACY\n
+Credit hours:156\n
+Admission fee:BDT 25,000\n
+Regestration fee:BDT 4,000\n
+Per credits:BDT 5,500\n
+Total fee:BDT 9,15,000\n
+
+
+
+Graduate cost:\n\n
+
+program:MBA\n
+Credit hours:60\n
+Admission fee:BDT 25,000\n
+Regestration fee:BDT 4,000\n
+Per credits:BDT 5,500\n
+Total fee:BDT 3,79,000\n
+
+program:EMBA\n
+Credit hours:50\n
+Admission fee:BDT 25,000\n
+Regestration fee:BDT 4,000\n
+Per credits:BDT 5,500\n
+Total fee:BDT 3,24,000\n
+
+program:ECO\n
+Credit hours:30\n
+Admission fee:BDT 25,000\n
+Regestration fee:BDT 4,000\n
+Per credits:BDT 5,500\n
+Total fee:BDT 2,14,000\n
+
+program:MDS\n
+Credit hours:39\n
+Admission fee:BDT 25,000\n
+Regestration fee:BDT 4,000\n
+Per credits:BDT 5,500\n
+Total fee:BDT 2,63,500\n
+
+program:ENG\n
+Credit hours:36\n
+Admission fee:BDT 25,000\n
+Regestration fee:BDT 4,000\n
+Per credits:BDT 5,500\n
+Total fee:BDT 2,47,000\n
+
+program:CSE\n
+Credit hours:30\n
+Admission fee:BDT 25,000\n
+Regestration fee:BDT 4,000\n
+Per credits:BDT 5,500\n
+Total fee:BDT 2,14,000\n
+
+program:ETE\n
+Credit hours:33\n
+Admission fee:BDT 25,000\n
+Regestration fee:BDT 4,000\n
+Per credits:BDT 5,500\n
+Total fee:BDT 2,30,500\n
+
+program:EEE\n
+Credit hours:33\n
+Admission fee:BDT 25,000\n
+Regestration fee:BDT 4,000\n
+Per credits:BDT 5,500\n
+Total fee:BDT 2,30,500\n
+
+program:Science in Biotechnology\n
+Credit hours:40\n
+Admission fee:BDT 25,000\n
+Regestration fee:BDT 4,000\n
+Per credits:BDT 5,500\n
+Total fee:BDT 2,69,500\n
+
+program:MESM\n
+Credit hours:39\n
+Admission fee:BDT 25,000\n
+Regestration fee:BDT 4,000\n
+Per credits:BDT 5,500\n
+Total fee:BDT 2,63,000\n
+
+program:PTB\n
+Credit hours:36\n
+Admission fee:BDT 25,000\n
+Regestration fee:BDT 4,000\n
+Per credits:BDT 5,500\n
+Total fee:BDT 2,47,000\n
+
+program:PCB\n
+Credit hours:36\n
+Admission fee:BDT 25,000\n
+Regestration fee:BDT 4,000\n
+Per credits:BDT 5,500\n
+Total fee:BDT 2,47,000\n
+
+program:MPH\n
+Credit hours:51\n
+Admission fee:BDT 25,000\n
+Regestration fee:BDT 4,000\n
+Per credits:BDT 5,500\n
+Total fee:BDT 3,29,500\n
+
+program:EMPH\n
+Credit hours:51\n
+Admission fee:BDT 25,000\n
+Regestration fee:BDT 4,000\n
+Per credits:BDT 5,500\n
+Total fee:BDT 3,29,500\n
+
+
+For detail information about NSU: \n\n
+North South University(NSU)\n
+plot#15,Basundhara,Dhaka 1229\n
+Phones: 880-2-5566820, Ext.5000,5002,1174\n
+email: register@northsouth.edu\n
+website: www.northsouth.edu\n</string>
+    <string name="title_activity_austinfo">AUSTInfo</string>
+    <string name="aust_info">Undergraduate programs: \n\n
+
+1.Bachelor of Architecture (Arc) 5 years (10 semesters)\n
+2.B. Sc. in Civil Engineering (CE) 4 years (8 semesters)\n
+3.B. Sc. in Computer Science and Engineering (CSE) 4 years (8 semesters)\n
+4.B. Sc. in Electrical and Electronic Engineering (EEE) 4 years (8 semesters)\n
+5.B. Sc. in Textile Engineering (TE)4 years (8 semesters)\n
+6.B. Sc. in Industrial and Production Engineering (IPE) 4 years (8 semesters)\n
+7.B. Sc. in Mechanical Engineering (ME) 4 years (8 semesters)\n
+8.Bachelor of Business Administration (BBA)  4 years (8 semesters) \n
+
+
+Graduate programs:\n\n
+
+1.MBA\n
+2.EMBA \n
+
+Undergraduate cost:\n\n
+
+programs:ARC\n
+At the time of admission :BDT 1,04,800.00\n
+Subsequent each semester:BDT 80,400.00 \n
+Total fee:BDT 8,28,400.00\n
+
+programs:CIVIL ENGINEERING\n
+At the time of admission :BDT 1,04,800.00\n
+Subsequent each semester:BDT 80,400.00 \n
+Total fee:BDT 6,67,600.00\n
+
+programs:CSE\n
+At the time of admission :BDT 1,04,800.00\n
+Subsequent each semester:BDT 80,400.00 \n
+Total fee:BDT 6,67,600.00 \n
+
+programs:EEE \n
+At the time of admission :BDT 1,04,800.00\n
+Subsequent each semester:BDT 80,400.00 \n
+Total fee:BDT 6,67,600.00 \n
+
+programs:TE \n
+At the time of admission :BDT 1,04,800.00\n
+Subsequent each semester:BDT 80,400.00 \n
+Total fee:BDT 6,67,600.00\n
+
+programs:IPE \n
+At the time of admission :BDT 1,04,800.00\n
+Subsequent each semester:BDT 80,400.00 \n
+Total fee:BDT 6,67,600.00\n
+
+programs:ME \n
+At the time of admission :BDT 1,04,800.00\n
+Subsequent each semester:BDT 80,400.00 \n
+Total fee:BDT 6,67,600.00 \n
+
+programs:BBA \n
+At the time of admission :BDT 1,04,800.00\n
+Subsequent each semester:BDT 80,400.00 \n
+Total fee:BDT 5,32,980.00 \n
+
+
+
+Graduate cost:\n\n
+
+programs:MBA \n
+Registrasion fee:BDT 19,500.00\n
+Establishment fee per semester :BDT 13,000.00\n
+Admission fee per semester:BDT 13,000.00
+Tution fee per semester:BDT 78,000.00(1,300X60)\n
+Total:BDT 1,23,500.00\n
+
+
+programs:EMBA \n
+Registrasion fee:BDT 19,500.00\n
+Establishment fee per semester :BDT 13,000.00\n
+Admission fee per semester:BDT 13,000.00
+Tution fee per semester:BDT 62,000.00(1,300X48)\n
+Total:BDT 1,05,300.00\n
+
+
+For detail information about AUST :\n\n
+Ahsanullah University of Science and Technology (AUST) \n
+141-142 Love Road, Tejgaon Industrial Area, Dhaka 1208\n
+Website: www.aust.edu\n
+PABX: 02-8870422, ext 500/400/104/113/114\n
+Registrar: 02-8870416 and PABX: 8870422 ext 103\n</string>
+    <string name="title_activity_bracinfo">BRACInfo</string>
+    <string name="brac_info">Undergraduate programs:\n\n
+
+1.Architecture\n
+2.Bachelor of Business
+Administration (BBA)\n
+3.Civil Engineering (CE)\n
+4.Computer Science and
+ Engineering ( CSE) \n
+5.Electrical andElectronic
+   Engineering (EEE) \n
+6.English\n
+7.Bachelor of Laws (Hons)\n
+8.Pharmacy \n
+9.Mathematics\n
+
+
+Graduate Programs/n/n
+
+1.MBA/n
+2.EMBA/n
+3.MCE/n
+4.MCSE/n
+5.M.S.Pharm.Tech
+(Non-Thesis)/n
+6.M.S.pharm.Tech
+  (Thesis)/n
+7.LL.M.(regular)/n
+8.M.A in English
+(1 year)/n
+9.M.A in English
+   (2 year)/n
+
+Undergraduate Programs:\n\n
+
+Program:Architecture\n
+Credit Hours:130\n
+Admission fees:500\n
+Total Semesters:(5x2)=10 Semesters\n
+Total fees:8,50,000/-
+
+Program:BBa\n
+Credit Hours:130\n
+Admission fees:500\n
+Total Semesters:8 Semesters\n
+Total fees:4,80,000/-\n
+
+Program:CE\n
+Credit Hours:161\n
+Admission fees:500\n
+Total Semesters:8 Semesters\n
+Total fees:4,96,000/-\n
+
+Program:CSE\n
+Credit Hours:161\n
+Admission fees:500\n
+Total Semesters:8Semesters\n
+Total fees:4,96,000/-\n
+
+Program:EEE\n
+Credit Hours:151\n
+Admission fees:500\n
+Total Semesters:8 Semesters\n
+Total fees:4,96,000/-\n
+
+Program:English\n
+Credit Hours:120\n
+Admission fees:500\n
+Total Semesters:8 Semesters\n
+Total fees:3,20,000/-\n
+
+Program:\Law(Hons)\n
+Credit Hours:128\n
+Admission fees:500\n
+Total Semesters:8 Semesters\n
+Total fees:2,96,000/-\n
+
+Program:Pharmacy\n
+Credit Hours:162\n
+Admission fees:500\n
+Total Semesters:8 Semesters\n
+Total fees:6,80,000/-\n
+
+Program:Mathematics\n
+Credit Hours:130\n
+Admission fees:500\n
+Total Semesters:8 Semesters\n
+Total fees:2,08,000/-\n
+
+
+Graduate Programs:/n/n
+
+Program:MBA/n
+Credit Hours:40\n
+Admission Fees:500\n
+Total Semesters:5 Semesters\n
+Total Fees:2,00,000/-\n
+
+Program:EMBA/n
+Credit Hours:42\n
+Admission Fees:500\n
+Total Semesters:4 Semesters\n
+Total Fees:1,10,000/-\n
+
+Program:MCE/n
+Credit Hours:36\n
+Admission Fees:500\n
+Total Semesters:4 Semesters\n
+Total Fees:1,44,000/-\n
+
+Program:MCSE/n
+Credit Hours:36\n
+Admission Fees:500\n
+Total Semesters:3 Semesters\n
+Total Fees:1,44,000/-\n
+
+Program:M.S.Pharm.Tech(Non-Thesis/n
+Credit Hours:24\n
+Admission Fees:500\n
+Total Semesters:2 Semesters\n
+Total Fees:1,20,000/-\n
+
+Program:M.S.pharm.Tech(thesis)/n
+Credit Hours:24\n
+Admission Fees:500\n
+Total Semesters:2 Semesters\n
+Total Fees:1,50,000/-\n
+
+Program:LL.M (regular)/n
+Credit Hours:26\n
+Admission Fees:500\n
+Total Semesters:2 Semesters\n
+Total Fees:50,000/-\n
+
+Program:M.A in English(1 Year)/n
+Credit Hours:36\n
+Admission Fees:500\n
+Total Semesters:3 Semesters\n
+Total Fees:60,000/-\n
+
+Program:M.A in English(2 year)/n
+Credit Hours:72\n
+Admission Fees:500\n
+Total Semesters:6 Semesters\n
+Total Fees:1,20,000/-\n</string>
+    <string name="title_activity_iubinfo">IUBInfo</string>
+    <string name="iub_info">Undergraduate programs\n\n
+
+1.BBA\n
+2.ECONOMICS\n
+3.ETE (Electronic Telecomunication and Engineering)\n
+4.EEE(Electrical and Electronic Engineering)\n
+5.CE:\n
+6.CSE (Computer Science and Engineering)\n
+7.Environmental Science\n
+8.Environmental Management\n
+9.Population Mangement\n
+10.Media and Development Communication\n
+11.Anthropology\n
+12.Sociolgy\n
+13.LLB(Hons)\n
+14.Eng Literature\n
+15.ELT (English Language Teaching)\n
+16.Biochemistry\n
+17.Microbiology\n\n
+
+Undergraduate cost:\n\n
+
+program: BBA\n
+Credit hours: 125\n
+Admission fee: BDT 17500\n
+Per credits: BDT  4500\n
+Total fee: BDT 653000\n\n
+
+program: ECONOMICS\n
+Credit hours: 125\n
+Admission fee: BDT 17500\n
+Per credits: BDT 4,500\n
+Total fee: BDT 639500\n\n
+
+program: ETE\n
+Credit hours: 130\n
+Admission fee: BDT 17500\n
+Per credits: BDT 4,500\n
+Total fee: BDT 609500 \n\n
+
+program: EEE\n
+Credit hours: 131\n
+Admission fee: BDT 17500\n
+Per credits: BDT 4,500\n
+Total fee: BDT 614000\n\n
+
+program: CS\n
+Credit hours: 135\n
+Admission fee: BDT 17500\n
+Per credits: BDT 5500\n
+Total fee: BDT 761500\n\n
+
+program:CSE\n
+Credit hours: 135\n
+Admission fee: BDT 17500\n
+Per credits: BDT 5500\n
+Total fee: BDT 761500\n\n
+
+program: Environmental Science\n
+Credit hours: 131\n
+Admission fee: BDT 17500\n
+Per credits: BDT  5500\n
+Total fee: BDT 745000\n\n
+
+program: Environmental Management\n
+Credit hours: 131\n
+Admission fee: BDT 17500\n
+Per credits: BDT 5500\n
+Total fee: BDT 745000\n\n
+
+program: Population Mangement\n
+Credit hours: 131\n
+Admission fee: BDT 17500\n
+Per credits: BDT 5500\n
+Total fee: BDT 745000\n\n
+
+program: Media and Development Communication\n
+Credit hours: 127\n
+Admission fee: BDT 17500\n
+Per credits: BDT  4500\n
+Total fee: BDT 596000\n\n
+
+program: Anthropology\n
+Credit hours: 127\n
+Admission fee: BDT 17500\n
+Per credits: BDT  4,500\n
+Total fee: BDT 596000\n\n
+
+
+program: Sociolgy\n
+Credit hours: 127\n
+Admission fee: BDT 17500\n
+Per credits: BDT 4,500\n
+Total fee: BDT 596000\n\n
+
+program: LLB(Hons)\n
+Credit hours: 127\n
+Admission fee: BDT 17500\n
+Per credits:BDT 5500\n
+Total fee: BDT 723000\n\n
+
+program: Eng Literature\n
+Credit hours: 124\n
+Admission fee: BDT 17500\n
+Per credits: BDT  4500\n
+Total fee: BDT 582500\n\n
+
+program: ELT (English Language Teaching)\n
+Credit hours: 124\n
+Admission fee: BDT 17500\n
+Per credit: BDT  4,500\n
+Total fee: BDT 582500\n\n
+
+program: Biochemistry\n
+Credit hours: 134\n
+Admission fee: BDT 17500\n
+Per credits: BDT  5500\n
+Total fee: BDT  774000\n\n
+
+program: Microbiology\n
+Credit hours: 134\n
+Admission fee: BDT 17500\n
+Per credits: BDT  5500\n
+Total fee: BDT  774000\n\n
+
+GRADUATE PROGRAMS\n\n
+
+1.ECONOMICS\n
+2.MBA\n
+3.EMBA\n
+4.CS:\n
+5.TE (Telecommunication Engineering)\n
+6.CNC (Computer Networks and Communications)\n
+7.EEE\n
+8.CSE\n
+9.SEN (Software engineering)\n
+10.MPH\n
+11.MS in Environment Mnanagement\n
+12.MS in Natural Resource and Disaster Management\n
+13.MS in Climate Change and Development\n
+14.MSS in Media and Communication\n
+15.MSS in Development Studies\n\n
+
+GRADUATE COST:\n\n
+
+program: ECONOMICS\n
+Credit hours: 30\n
+Admission fee: BDT 17500\n
+Per credits: BDT  5000\n
+Total fee: BDT 174000\n
+
+program: MBA\n
+Credit hours: 60\n
+Admission fee: BDT 17500\n
+Per credits: BDT  5500\n
+Total fee: BDT 354500\n\n
+
+program: CS\n
+Credit hours: 48\n
+Admission fee: BDT 17500\n
+Per credits: BDT  5500\n
+Total fee: BDT 205500\n\n
+
+program: TE (Telecommunication Engineering)\n
+Credit hours: 33\n
+Admission fee: BDT 17500\n
+Per credits: BDT  5500\n
+Total fee: BDT 205500\n\n
+
+program: CNC (Computer Networks and Communications)\n
+Credit hours: 33\n
+Admission fee: BDT 17500\n
+Per credits: BDT  5500\n
+Total fee: BDT 205500\n\n
+
+program: EEE\n
+Credit hours: 36\n
+Admission fee: BDT 17500\n
+Per credits: BDT  5500\n
+Total fee: BDT 222500\n\n
+
+program: CSE\n
+Credit hours: 33\n
+Admission fee: BDT 17500\n
+Per credits: BDT  5500\n
+Total fee: BDT 205500\n\n
+
+program: SEN\n
+Credit hours: 33\n
+Admission fee: BDT 17500\n
+Per credits: BDT  5500\n
+Total fee: BDT 205500\n\n
+
+program: MPS\n
+Credit hours: 33\n
+Admission fee: BDT 17500\n
+Per credits: BDT  5500\n
+Total fee: BDT 209800\n\n
+
+program: MS in Environment Mnanagement\n
+Credit hours: 36\n
+Admission fee: BDT 17500\n
+Per credits: BDT  5500\n
+Total fee: BDT 222500\n\n
+
+program: MS in Natural Resource and Disaster Management\n
+Credit hours: 36\n
+Admission fee: BDT 17500\n
+Per credits: BDT  5500\n
+Total fee: BDT 222500\n\n
+
+program: MS in Climate Change and Development\n
+Credit hours: 36\n
+Admission fee: BDT 17500\n
+Per credits: BDT  5500\n
+Total fee: BDT 222500\n\n
+
+program: MSS in Media and Communication\n
+Credit hours: 39\n
+Admission fee: BDT 17500\n
+Per credits: BDT  5500\n
+Total fee: BDT 238500\n\n
+
+program: MSS in Development Studies\n
+Credit hours: 33\n
+Admission fee: BDT 17500\n
+Per credits: BDT  5500\n
+Total fee: BDT 205500\n\n</string>
+    <string name="title_activity_aiubinfo">AIUBInfo</string>
+    <string name="aiub_info">For undergraduate:\n
+1. CS (COmputer Science)\n
+2. EEE (Electrical and Electronic Engineering)\n
+3. Architecture\n
+4. BBA (BUsiness Study) in \n
+(i) Accounting and Finance\n
+(ii) Marketing\n
+(iii) Tourism and Hospitality Management\n
+(iv)  Human Resource Management\n
+(v) Management Information System\n
+(vi) Operations Management\n
+(vii) Economics\n
+(viii) Management\n\n
+
+For Graduate:\n
+1. Ms.C in EEE (Electric and Electronic Engineering)\n
+2. MBA in \n
+(i) Regular\n
+(ii) Accounting\n
+(iii) Finance\n
+(iv) General Management\n
+(v) Operations Management\n
+(vi) Management Science\n
+(vii) Marketing\n
+(viii) Human Resource Management\n
+(ix) Executive MBA Program\n
+(x) Agribusiness MBA Program\n\n
+
+Undergraduate Programs:\n\n
+
+Program: BBA/BA\n
+Admission: BDT 20000\n
+Tution/credits: BDT 5000\n
+Development: BDT 10000\n
+Student Activity: BDT 9000\n
+Lab(Comp.): BDT 2500\n
+Lab(lang.): BDT 2500\n
+Misc.: BDT 3500\n\n
+
+
+Program: CS/CSE/SE/CIS/CSSE/EEE/COE\n
+Admission: BDT 20000\n
+Tution/credits: BDT 5000\n
+Development: BDT 10000\n
+Student Activity: BDT 9000\n
+Lab(Comp.): BDT 2500\n
+Lab(Sci.): BDT 2000\n
+Lab(lang.): BDT 2500\n
+Misc.: BDT 3500\n\n
+
+Program: ARCHITECTURE\n
+Admission: BDT 20000\n
+Tution/credits: BDT 5000\n
+Development: BDT 10000\n
+Student Activity: BDT 9000\n
+Lab(Comp.): BDT 2500\n
+Lab(Sci.): BDT 2000\n
+Lab(lang.): BDT 2500\n
+Misc.: BDT 3500\n\n
+
+Graduate Programs:\n\n
+
+Program: MBA/EMBA/MSCS/MTEL/MEEE/MPH/MDS\n
+Admission: BDT 20000\n
+Tution/credits: BDT 5000\n
+Development: BDT 7500\n
+Lab(Comp.): BDT 2500\n
+Lab(lang.): BDT 2500\n
+Miscellaneous: BDT 3500</string>
+    <string name="title_activity_ewuinfo">EWUInfo</string>
+    <string name="ewu_info">Undergraduate programs:\n
+1. BBA\n
+2. BSS in Economics\n
+3. BA in English\n
+4. B. Pharm (Pharmacy)\n
+5. BS in Genetic Engineering and Biotechnology\n
+6. B.Sc in CSE (Computer Science and Engineering)\n
+7. B.Sc in ETE (Electronic Telecomunication and Engineering)\n
+8. B.Sc in EEE (Electrical and Electronic Engineering)\n
+9. B.Sc in ICE (Information and Combunications Engineering)\n
+10. BSS in Sociology\n
+11. BS in Applied Statistics\n
+12. LL.B (Law)\n\n
+
+Graduate programs:\n
+1. MBA (Masters of Business Administration)\n
+2. EMBA (Masters of Business Administration)\n
+3. MBM (Masters of Bank Management)\n
+4. MA in English\n
+5. MA in ELT\n
+6. MPRHGD (Master of Population, Reproductive Health, Gender and Development)\n
+7. MDS (Masters in Development Studies)\n
+8. MSS in Economics\n
+9. LL.M\n
+10. MS in CSE (Master of Science in Computer Science and Engineering)\n
+11. MS in APE (Master of Science in Applied Physics and Electronics)\n
+12. M. Pharm (Clinical Pharmacy and Molecular Pharmacology)\n
+13. MS in Applied Statistics\n
+14. MS in TE (Master of Science in Telecommunication Engineering)\n\n
+
+Undergraduate Programs:\n\n
+
+Program: English\n
+Admission Fees: BDT 15000\n
+Tution Fees: BDT 407700\n
+Lab fees and Activities: BDT 18120\n
+Total Tution Fees: BDT 440120\n\n
+
+Program: BBA\n
+Admission Fees: BDT 15000\n
+Tution Fees: BDT 500100\n
+Lab fees and Activities: BDT 18120\n
+Total Tution Fees: BDT 435120\n\n
+
+Program: LAW\n
+Credits: 129\n
+Admission Fees: BDT 15000\n
+Tution Fees: BDT 402000\n
+Lab fees and Activities: BDT 18120\n
+Total Tution Fees: BDT 435120\n\n
+
+Program: Pharmacy\n
+Admission Fees: BDT 15000\n
+Tution Fees: BDT 605700\n
+Lab fees and Activities: BDT 36120\n
+Total Tution Fees: BDT 708120\n\n
+
+Program: GEB\n
+Admission Fees: BDT 15000\n
+Tution Fees: BDT 603320\n
+Lab fees and Activities: BDT 36120\n
+Total Tution Fees: BDT 654440\n\n
+
+Program: SSE\n
+Admission Fees: BDT 15000\n
+Tution Fees: BDT 414300\n
+Lab fees and Activities: BDT 18120\n
+Total Tution Fees: BDT 447420\n\n
+
+Program: SSS\n
+Admission Fees: BDT 15000\n
+Lab fees and Activities: BDT 18120\n
+Total Tution Fees: BDT 424320\n\n
+
+Program: CSE\n
+Admission Fees: BDT 15000\n
+Tution Fees: BDT 581400\n
+Lab fees and Activities: BDT 36120\n
+Total Tution Fees: BDT 632520\n\n
+
+Program: EEE\n
+Admission Fees: BDT 15000\n
+Tution Fees: BDT 581400\n
+Lab fees and Activities: BDT 18120\n
+Total Tution Fees: BDT 632520\n\n
+
+Program: ICE\n
+Admission Fees: BDT 15000\n
+Tution Fees: BDT 581400\n
+Lab fees and Activities: BDT 36120\n
+Total Tution Fees: BDT 632520\n\n
+
+Program: Applied Statistic\n
+Admission Fees: BDT 15000\n
+Tution Fees: BDT 424500\n
+Lab fees and Activities: BDT 18120\n
+Total Tution Fees: BDT 457620\n\n
+
+Graduate Programs:\n\n
+
+Program: ELT\n
+Admission Fees: BDT 15000\n
+Tution Fees: BDT 130200\n
+Lab fees and Activities: BDT 6040\n
+Total Tution Fees: BDT 151240\n\n
+
+Program: MDS\n
+Credits: 39\n
+Admission Fees: BDT 15000\n
+Tution Fees: BDT 120900\n
+Lab fees and Activities: BDT 4530\n
+Total Tution Fees: BDT 140430\n\n
+
+Program: MBM\n
+Credits: 60\n
+Admission Fees: BDT 15000\n
+Tution Fees: BDT 186000\n
+Lab fees and Activities: BDT 12060\n
+Total Tution Fees: BDT 213060\n\n
+
+Program: EMBA\n
+Credits: 42\n
+Admission Fees: BDT 15000\n
+Tution Fees: BDT 241200\n
+Lab fees and Activities: BDT 12060\n
+Total Tution Fees: BDT 241260\n\n
+
+Program: MBA\n
+Credits: 60\n
+Admission Fees: BDT 15000\n
+Tution Fees: BDT 306000\n
+Lab fees and Activities: BDT 12060\n
+Total Tution Fees: BDT 333060\n\n
+
+Program: MPRHGD\n
+Credits: 48\n
+Admission Fees: BDT 15000\n
+Tution Fees: BDT 105600\n
+Lab fees and Activities: BDT 9060\n
+Total Tution Fees: BDT 129660\n\n
+
+Program: APE\n
+Admission Fees: BDT 15000\n
+Tution Fees: BDT 108500\n
+Lab fees and Activities: BDT 6030\n
+Total Tution Fees: BDT 129530\n\n
+
+Program: CSE\n
+Credits: 33\n
+Admission Fees: BDT 15000\n
+Tution Fees: BDT 138600\n
+Lab fees and Activities: BDT 6030\n
+Total Tution Fees: BDT 159630\n\n
+
+Program: Applied Statistic\n
+Credits: 35\n
+Admission Fees: BDT 15000\n
+Tution Fees: BDT 111600\n
+Lab fees and Activities: BDT 4330\n
+Total Tution Fees: BDT 129530\n\n
+
+Program: TE\n
+Credits: 36\n
+Admission Fees: BDT 15000\n
+Tution Fees: BDT 147000\n
+Lab fees and Activities: BDT 6300\n
+Total Tution Fees: BDT 168030\n\n
+
+Program: Economics\n
+Admission Fees: BDT 15000\n
+Tution Fees: BDT 111600\n
+Lab fees and Activities: BDT 4530\n
+Total Tution Fees: BDT 131130</string>
+    <string name="title_activity_ulabinfo">ULABInfo</string>
+    <string name="ulab_info">Undergraduate Degrees :\n\n
+
+1.Bachelor of Business Administration (BBA) \n
+2.BS in Computer Science and Engineering (CSE)\n
+3.BS in Electronics and Telecommunication Engineering (ETE)\n
+4.BSS in Media Studies and Journalism(MSJ).\n
+5.BA in English and Humanities(DEH).\n
+
+Undergraduate cost:\n\n
+
+program:CSE\n
+Credit hours: 140\n
+Admission fee: BDT 15,000\n
+Regestration fee:BDT 30,000\n
+Per credits:BDT 4,500\n
+Total fee:BDT 6,75,000\n
+
+
+program:ETE\n
+Credit hours: 148\n
+Admission fee: BDT 15,000\n
+Regestration fee:BDT 30,000\n
+Per credits:BDT 4,300\n
+Total fee:BDT 6,81,900\n
+
+
+program:BBA\n
+Credit hours:135\n
+Admission fee: BDT 15,000\n
+Regestration fee:BDT 30,000\n
+Per credits:BDT 5,000\n
+Total fee:BDT 7,20,500\n
+
+
+program:MSJ\n
+Credit hours: 129\n
+Admission fee: BDT 15,000\n
+Regestration fee:BDT 30,000\n
+Per credits:BDT 5,000\n
+Total fee:BDT 7,55,000\n
+
+
+program:DEH\n
+Credit hours: 129\n
+Admission fee: BDT 15,000\n
+Regestration fee:BDT 30,000\n
+Per credits:BDT 4,000\n
+Total fee:BDT 5,61,000\n
+
+
+Graduate Degrees :\n\n
+1.MBA.\n
+2.Executive MBAn\n
+3.Masters in Communication.\n
+
+
+
+Undergraduate cost:\n\n
+
+program:MBA\n
+Credit hours: 57\n
+Admission fee: BDT 15,000\n
+Regestration fee:BDT 15,000\n
+Per credits:BDT 5,000\n
+Total fee:BDT 3,15,000\n
+
+program:EMBA\n
+Credit hours: 45\n
+Admission fee: BDT 15,000\n
+Regestration fee:BDT 15,000\n
+Per credits:BDT 4,000\n
+Total fee:BDT 2,53,000\n
+
+program:MC\n
+Credit hours: 54\n
+Admission fee: BDT 15,000\n
+Regestration fee:BDT 15,000\n
+Per credits:BDT 4,000\n
+Total fee:BDT 2,19,500\n</string>
+    <string name="title_activity_splash">Welcome</string>
+
+</resources>

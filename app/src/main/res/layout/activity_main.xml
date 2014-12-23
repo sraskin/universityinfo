@@ -1,0 +1,171 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools" android:layout_width="match_parent"
+    android:layout_height="match_parent" android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    android:paddingBottom="@dimen/activity_vertical_margin" tools:context=".MainActivity"
+    android:background="@color/background_material_dark">
+
+    <ScrollView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/scrollView" >
+
+        <LinearLayout
+            android:orientation="vertical"
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent">
+
+            <LinearLayout
+                android:orientation="horizontal"
+                android:layout_width="fill_parent"
+                android:layout_height="fill_parent">
+
+                <Button
+                    android:layout_width="85dp"
+                    android:layout_height="88dp"
+                    android:id="@+id/nsu_btn"
+                    android:background="@drawable/nsu_btn"/>
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="North South University"
+                    android:textColor="@android:color/white"
+                    android:textSize="20sp"
+                    android:id="@+id/nsu_txt"
+                    android:layout_marginLeft="15dp" />
+            </LinearLayout>
+
+            <LinearLayout
+                android:orientation="horizontal"
+                android:layout_width="fill_parent"
+                android:layout_height="fill_parent">
+
+                <Button
+                    android:layout_width="85dp"
+                    android:layout_height="88dp"
+                    android:id="@+id/aust_btn"
+                    android:background="@drawable/aust_btn"/>
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="Ahsanullah University of Science and Technology"
+                    android:textColor="@android:color/white"
+                    android:textSize="20sp"
+                    android:id="@+id/aust_txt"
+                    android:layout_marginLeft="15dp"/>
+            </LinearLayout>
+            <LinearLayout
+                android:orientation="horizontal"
+                android:layout_width="fill_parent"
+                android:layout_height="fill_parent">
+
+                <Button
+                    android:layout_width="85dp"
+                    android:layout_height="88dp"
+                    android:id="@+id/brac_btn"
+                    android:background="@drawable/brac_btn"/>
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="BRAC University"
+                    android:textColor="@android:color/white"
+                    android:textSize="20sp"
+                    android:id="@+id/brac_txt"
+                    android:layout_marginLeft="15dp"/>
+            </LinearLayout>
+            <LinearLayout
+                android:orientation="horizontal"
+                android:layout_width="fill_parent"
+                android:layout_height="fill_parent">
+
+                <Button
+                    android:layout_width="85dp"
+                    android:layout_height="88dp"
+                    android:id="@+id/iub_btn"
+                    android:background="@drawable/iub_btn"/>
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="Indepndent University of Bangladesh"
+                    android:textColor="@android:color/white"
+                    android:textSize="20sp"
+                    android:id="@+id/iub_txt"
+                    android:layout_marginLeft="15dp"/>
+
+            </LinearLayout>
+            <LinearLayout
+                android:orientation="horizontal"
+                android:layout_width="fill_parent"
+                android:layout_height="fill_parent">
+
+                <Button
+                    android:layout_width="85dp"
+                    android:layout_height="88dp"
+                    android:id="@+id/aiub_btn"
+                    android:background="@drawable/aiub_btn"/>
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="American International University of Bangladesh"
+                    android:textColor="@android:color/white"
+                    android:textSize="20sp"
+                    android:id="@+id/aiub_txt"
+                    android:layout_marginLeft="15dp"/>
+
+            </LinearLayout>
+            <LinearLayout
+                android:orientation="horizontal"
+                android:layout_width="fill_parent"
+                android:layout_height="fill_parent">
+
+                <Button
+                    android:layout_width="85dp"
+                    android:layout_height="88dp"
+                    android:id="@+id/ewu_btn"
+                    android:background="@drawable/ewu_btn"/>
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="East West University"
+                    android:textColor="@android:color/white"
+                    android:textSize="20sp"
+                    android:id="@+id/ewu_txt"
+                    android:layout_marginLeft="15dp"/>
+
+            </LinearLayout>
+
+
+
+            <LinearLayout
+                android:orientation="horizontal"
+                android:layout_width="fill_parent"
+                android:layout_height="fill_parent">
+
+                <Button
+                    android:layout_width="85dp"
+                    android:layout_height="88dp"
+                    android:id="@+id/ulab_btn"
+                    android:background="@drawable/ulab_btn"/>
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="University of Liberal Arts Bangladesh"
+                    android:textColor="@android:color/white"
+                    android:textSize="20sp"
+                    android:id="@+id/ulab_txt"
+                    android:layout_marginLeft="15dp"/>
+
+            </LinearLayout>
+
+        </LinearLayout>
+    </ScrollView>
+
+</RelativeLayout>
