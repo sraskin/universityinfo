@@ -24,7 +24,7 @@ public class NSUInfo extends ActionBarActivity {
                 callIntent.setData(Uri.parse("tel:01754119999"));
                 startActivity(callIntent);
             }
-        });//menifest prob
+        });
     }
 
 

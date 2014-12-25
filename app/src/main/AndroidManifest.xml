@@ -14,7 +14,7 @@
             android:name=".Splash"
             android:label="@string/title_activity_splash" >
             <intent-filter>
-                <action android:name="android.intent.action.MAIN" />
+                <action android:name="android.intent.action.MAIN" /> //this is launchgr activity
 
                 <category android:name="android.intent.category.LAUNCHER" /> //changed launcher activity
             </intent-filter>
