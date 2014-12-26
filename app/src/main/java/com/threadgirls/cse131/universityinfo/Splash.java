@@ -1,5 +1,6 @@
 package com.threadgirls.cse131.universityinfo;
 
+import android.app.Activity;
 import android.content.Intent;
 import android.support.v7.app.ActionBarActivity;
 import android.os.Bundle;
@@ -8,20 +9,20 @@ import android.view.MenuItem;
 import android.view.WindowManager;
 
 
-public class Splash extends ActionBarActivity {
+public class Splash extends Activity {
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_splash);
-        Thread timer=new Thread(){
-            public void run(){
-                try{
+        Thread timer = new Thread() {
+            public void run() {
+                try {
                     sleep(5000);
-                }catch(InterruptedException e){
+                } catch (InterruptedException e) {
                     e.printStackTrace();
-                }finally{
-                    Intent intent=new Intent(Splash.this, MainActivity.class);
+                } finally {
+                    Intent intent = new Intent(Splash.this, MainActivity.class);
                     startActivity(intent);
                 }
             }
@@ -30,13 +31,6 @@ public class Splash extends ActionBarActivity {
         timer.start();
     }
 
-
-    @Override
-    public boolean onCreateOptionsMenu(Menu menu) {
-        // Inflate the menu; this adds items to the action bar if it is present.
-        getMenuInflater().inflate(R.menu.menu_splash, menu);
-        return true;
-    }
 
     @Override
     public boolean onOptionsItemSelected(MenuItem item) {
